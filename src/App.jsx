@@ -28,23 +28,3 @@ function App() {
 
 export default App;
 
-// timer in landing page
-// // comment 
-// {
-//         "institution": "St. Michael's High School",
-//         "degree": "Higher Secondary (Class XII)",
-//         "board": "CBSE",
-//         "logo": "https://media.licdn.com/dms/image/v2/C560BAQExbzTH5Aw9WQ/company-logo_200_200/company-logo_200_200/0/1630648703658/stmichaelshighschool_logo?e=2147483647&v=beta&t=8XGDxnr2niwtjFrMz-kWR-2wynYHk8hVrskufz8IPzY",
-//         "duration": "2019",
-//         "location": "Patna, Bihar",
-//         "percentage": "76%"
-//     },
-//     {
-//         "institution": "Modern Public School",
-//         "degree": "Secondary School (Class X)",
-//         "board": "CBSE",
-//         "logo": "https://lh4.googleusercontent.com/proxy/xgkK9L-NeMIRph2SSqfSxG5jBcJPa4GAOxxT1Bwg4gZqslPfwzVOluyn-gxSdwxNWaNcEKW3kx1sgMiMyagn4enRO3w",
-//         "duration": "2017",
-//         "location": "Motihari, Bihar",
-//         "percentage": "95%"
-//     }
