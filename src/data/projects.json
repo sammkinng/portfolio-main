@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Blogkinng",
+        "description": "A personal coding blog sharing programming insights, tutorials, and experiences. Covers coding challenges, tech deep-dives, and software development learnings.",
+        "image": "p0.jpg",
+        "tags": ["Next.js", "Blog", "Web Development"],
+        "link": "https://blog.sammkinng.in"
+    },
+    {
+        "title": "Interactive Polls and Blogs Platform",
+        "description": "A full-stack platform for participating in polls and reading blogs across topics. Features country/category filters, real-time vote results, and a personalized content feed.",
+        "image": "p1.jpg",
+        "tags": ["Angular", "Full Stack", "Web App"],
+        "link": "https://poller-blogger.netlify.app"
+    },
+    {
+        "title": "DC Movies Hub",
+        "description": "A streaming platform for DC universe movies with an extensive library, seamless playback, and offline download support for on-the-go viewing.",
+        "image": "p2.jpg",
+        "tags": ["React", "Streaming", "Web App"],
+        "link": "https://dcversehd.netlify.app"
+    },
+    {
+        "title": "Blogging App",
+        "description": "A sleek full CRUD blogging platform powered by the Untitled UI design system. Users can create, read, edit, and delete blogs with an intuitive interface.",
+        "image": "p5.jpg",
+        "tags": ["React", "CRUD", "Untitled UI"],
+        "link": "https://untitled-blog.netlify.app"
+    },
+    {
+        "title": "orGuru – Organic Farming App",
+        "description": "An organic farming companion app featuring educational blogs, an interactive Q&A forum, direct expert guidance, and an integrated marketplace for seeds and fertilizers.",
+        "image": "p6.jpg",
+        "tags": ["React", "Full Stack", "Marketplace", "Community"],
+        "link": "https://github.com/sammkinng/orgArt"
+    },
+    {
+        "title": "Netflix Website Clone",
+        "description": "A pixel-perfect, fully responsive clone of the Netflix landing page with smooth UI interactions and adaptive layout across all device sizes.",
+        "image": "p4.jpg",
+        "tags": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+        "link": "https://netflixhd.netlify.app"
+    },
+    {
+        "title": "Starbucks Website Clone",
+        "description": "A high-fidelity responsive clone of the official Starbucks website, replicating the authentic UI and user experience across desktop, tablet, and mobile.",
+        "image": "p3.jpg",
+        "tags": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+        "link": "https://starbucks-clone732.netlify.app"
+    }
+]

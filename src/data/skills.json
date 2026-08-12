@@ -1,0 +1,53 @@
+[
+    {
+        "category": "Languages",
+        "skills": [
+            "C/C++",
+            "Python",
+            "JavaScript",
+            "SQL",
+            "Java"
+        ]
+    },
+    {
+        "category": "Machine Learning & AI",
+        "skills": [
+            "Random Forest",
+            "Agents",
+            "RAG",
+            "LLM",
+            "MCP",
+            "Scikit-learn"
+        ]
+    },
+    {
+        "category": "Web & Backend",
+        "skills": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "REST APIs",
+            "JWT"
+        ]
+    },
+    {
+        "category": "Databases",
+        "skills": [
+            "MySQL",
+            "MongoDB",
+            "Firebase"
+        ]
+    },
+    {
+        "category": "Tools & Platforms",
+        "skills": [
+            "Linux",
+            "Git",
+            "VirtualBox",
+            "Docker",
+            "Postman",
+            "Playwright",
+            "ADX"
+        ]
+    }
+]

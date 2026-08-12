@@ -1,0 +1,31 @@
+[
+    {
+        "institution": "National Institute of Technology Karnataka",
+        "degree": "M.Tech",
+        "field": "Computer Science & Engineering",
+        "specialization": "Information Security",
+        "logo": "https://cdn.brandfetch.io/idjtXg2tex/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769659728938",
+        "duration": "2024 — 2026",
+        "location": "Surathkal, Karnataka",
+        "gpa": "8.11 / 10",
+        "highlights": [
+            "Specialization in Information Security",
+            "Teaching Assistant under GATE Fellowship",
+            "Focus areas: Network Security, Distributed Systems, Machine Learning"
+        ]
+    },
+    {
+        "institution": "Indian Institute of Information Technology",
+        "degree": "B.Tech",
+        "field": "Computer Science & Engineering",
+        "logo": "download.jpeg",
+        "duration": "2019 — 2023",
+        "location": "Sonepat, Haryana",
+        "gpa": "8.69 / 10",
+        "highlights": [
+            "Focused on Software Engineering and Web Technologies",
+            "Completed multiple full-stack and security related projects",
+            "Active participation in technical communities"
+        ]
+    }
+]

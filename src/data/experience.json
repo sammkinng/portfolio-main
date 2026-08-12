@@ -1,0 +1,106 @@
+[
+    
+    {
+        "title": "ASDE",
+        "company": "Zscaler",
+        "logo": "z.png",
+        "type": "Full-time",
+        "date": "Aug 2026 - Present",
+        "location": "Bengaluru, Karnataka, India · On-site",
+        "description": "Write, test, and maintain clean, efficient code for software applications and collaborated with cross-functional teams to deliver on-time and on-budget projects and initiatives.",
+        "skills": [
+            "React.js",
+            "Playwright",
+            "Java",
+            "ADX",
+            "Python"
+        ]
+    },
+    {
+        "title": "Teaching Assistant Duty",
+        "company": "National Institute of Technology Karnataka",
+        "logo": "https://cdn.brandfetch.io/idjtXg2tex/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769659728938",
+        "type": "Full-time",
+        "date": "Jul 2025 - May 2026",
+        "location": "Mangaluru, Karnataka, India · On-site",
+        "description": "Assisted faculty as a Teaching Assistant under the GATE fellowship during M.Tech at NITK. Conducted tutorials, evaluated assignments, guided students in labs and projects, and supported academic and research activities.",
+        "skills": [
+            "Mentoring",
+            "Project Guidance",
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "title": "SDE Intern",
+        "company": "Zscaler",
+        "logo": "z.png",
+        "type": "Internship",
+        "date": "May 2025 - Jul 2025",
+        "location": "Bengaluru, Karnataka, India · On-site",
+        "description": "Built a responsive frontend using React, TypeScript, and Tailwind CSS. Boosted user engagement by 25% and reduced bounce rate by 18%. Developed a real-time backend with Firebase & Firestore for 1,000+ users. Improved sync performance by 40% through backend optimization. Led UI revamp and collaborated cross-functionally using Git.",
+        "skills": [
+            "React.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Pytest",
+            "Git"
+        ]
+    },
+    {
+        "title": "Freelance Web Developer",
+        "company": "Self-Employed",
+        "logo": "",
+        "type": "Freelance",
+        "date": "2024 - 2025",
+        "location": "Remote",
+        "description": "Designed and developed custom, responsive websites and web applications for various clients. Translated client requirements into functional digital products with a focus on intuitive UI/UX, fast page loads, and modern aesthetics leveraging React and Tailwind CSS.",
+        "skills": [
+            "React",
+            "Web Design",
+            "Client Communication",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "title": "SDE Intern",
+        "company": "Amazon",
+        "logo": "a.png",
+        "type": "Internship",
+        "date": "Jan 2023 - Jun 2023",
+        "location": "Gurgaon, Haryana, India · On-site",
+        "description": "Engineered new AWS Service in Java,  achieved a 90% reduction in development effort and time required for packet generation and assumed a leadership role in the front-end development of this service, ensuring a user-friendly interface in React",
+        "skills": [
+            "EC2",
+            "S3",
+            "AWS",
+            "Java"
+        ]
+    },
+    {
+        "title": "Frontend Web Developer",
+        "company": "Redpositive Service OPC Pvt Ltd.",
+        "logo": "r.jpeg",
+        "type": "Internship",
+        "date": "Jan 2022 - Jun 2022",
+        "location": "Remote",
+        "description": "Assisted in building responsive frontend user interfaces for financial technology applications to improve accessibility and user experience.",
+        "skills": [
+            "React.js",
+            "UI/UX Design"
+        ]
+    },
+    {
+        "title": "Intern",
+        "company": "Anspruch Techsoft Pvt Ltd",
+        "logo": "",
+        "type": "Internship",
+        "date": "May 2021 - Jul 2021",
+        "location": "Delhi, India",
+        "description": "Participated in learning and development tasks focused on software engineering fundamentals and web development practices.",
+        "skills": [
+            "Web Development",
+            "Software Engineering"
+        ]
+    }
+]
