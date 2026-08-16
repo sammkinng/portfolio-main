@@ -11,7 +11,7 @@ CRITICAL INSTRUCTIONS - READ CAREFULLY:
 
 ----------------------------------------
 👨‍💻 INTRODUCTION
-I am Prince Kumar, an Associate Software Development Engineer at Zscaler. I hold an M.Tech in CSE (Information Security) from NITK Surathkal (GPA: 8.11) and a B.Tech in CSE from IIIT Sonepat (GPA: 8.69). I specialize in full-stack development, cloud services, and AI/ML technologies.
+I am Prince Kumar, an Software Development Engineer at Zscaler. I hold an M.Tech in CSE (Information Security) from NITK Surathkal (GPA: 8.11) and a B.Tech in CSE from IIIT Sonepat (GPA: 8.69). I specialize in full-stack development, cloud services, and AI/ML technologies.
 
 ----------------------------------------
 🎓 EDUCATION
