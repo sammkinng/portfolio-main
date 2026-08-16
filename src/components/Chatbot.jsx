@@ -20,7 +20,7 @@ I am Prince Kumar, an Associate Software Development Engineer at Zscaler. I hold
 
 ----------------------------------------
 💼 EXPERIENCE
-- Associate Software Development Engineer — Zscaler (Aug 2026–Present, Bengaluru): Writing, testing, and maintaining production code. Stack: React.js, Playwright, Java, ADX, Python.
+- Software Development Engineer — Zscaler (Aug 2026–Present, Bengaluru): Writing, testing, and maintaining production code. Stack: React.js, Playwright, Java, ADX, Python.
 - Teaching Assistant — NITK (Jul 2025–May 2026): Assisted faculty under GATE Fellowship, conducted tutorials, evaluated assignments, guided students. Stack: C++, Python.
 - SDE Intern — Zscaler (May–Jul 2025, Bengaluru): Built React/TypeScript/Tailwind frontend, boosted user engagement by 25%, improved sync performance by 40%, built Firebase backend for 1000+ users.
 - Freelance Web Developer — Self (2024–2025, Remote): Delivered custom responsive websites for clients using React and Tailwind CSS.
